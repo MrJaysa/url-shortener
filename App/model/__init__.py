@@ -1,0 +1,1 @@
+from .model import db, Urls, HitCount, Hits, UrlCount
