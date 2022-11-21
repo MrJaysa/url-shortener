@@ -56,7 +56,7 @@ def shorten():
         )
     else:
         return jsonify(
-            msg = 'Missiong Field',
+            msg = 'Missing Field',
             error = 'The Url field is not provided'
         )
 
